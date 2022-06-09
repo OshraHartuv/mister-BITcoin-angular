@@ -1,0 +1,6 @@
+<section class="app-header main-layout flex">
+    <button (click)="onSelectPage.emit('home')"  [ngClass]="{selected: selectedPage === 'home'}"
+    >Home</button>
+    <button (click)="onSelectPage.emit('contact')" [ngClass]="{selected: selectedPage === 'contact'}">Contacts</button>
+    <button (click)="onSelectPage.emit('statistics')" [ngClass]="{selected: selectedPage === 'statistics'}">Statistics</button>
+</section>

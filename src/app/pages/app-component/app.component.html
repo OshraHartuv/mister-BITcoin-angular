@@ -1,0 +1,5 @@
+<section class="app flex column">
+    <app-header (onSelectPage)="selectedPage=$event" [selectedPage]="selectedPage"></app-header>
+    <home-page *ngIf="selectedPage === 'home'"></home-page>
+    <contact-page *ngIf="selectedPage === 'contact'"></contact-page>
+</section>
