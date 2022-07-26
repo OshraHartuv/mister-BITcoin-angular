@@ -4,5 +4,7 @@
 
 <p>Basic angular app, work in progress :)</p>
 
+<br>
+
 <img src="https://res.cloudinary.com/or21321/image/upload/v1658846034/misterbitcoin-angular_ldn8sm.png" />
 
