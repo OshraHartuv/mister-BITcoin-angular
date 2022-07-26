@@ -6,5 +6,5 @@
 
 <br>
 
-<img src="https://res.cloudinary.com/or21321/image/upload/v1658846034/misterbitcoin-angular_ldn8sm.png" />
+<img src="https://res.cloudinary.com/or21321/image/upload/v1658846311/misterbitcoin-angular-fixed_zlibcm.png" />
 
